@@ -1,1 +1,1 @@
-# scrap_sfchronicle_details_data
+# scrap_sfchronicle_data
